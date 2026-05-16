@@ -32,5 +32,5 @@ Siga os passos abaixo para executar corretamente o ETL:
 # Observações Importantes
 
 - Certifique-se de que o nome da planilha está correto ao fazer o upload
-- O notebook foi estruturado para execução sequencial — evite pular etapas
+- O notebook foi estruturado para execução sequencial evite pular etapas
 - Caso ocorra algum erro, verifique se o arquivo foi carregado corretamente no ambiente do Colab
